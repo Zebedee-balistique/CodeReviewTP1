@@ -465,8 +465,8 @@
     </dependency>
   </dependencies>
 
-  /*
-  <!-- that repositories are required for testing plugin's snapshot version -->
+  
+  <!-- that repositories are required for testing plugin's snapshot version
   <pluginRepositories>
     <pluginRepository>
       <id>nexus-codehaus-snapshot</id>
@@ -474,7 +474,7 @@
       <url>https://oss.sonatype.org/content/repositories/codehaus-snapshots/</url>
     </pluginRepository>
   </pluginRepositories>
-*/
+-->
   
   <build>
     <pluginManagement>
