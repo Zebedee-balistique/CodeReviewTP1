@@ -10,7 +10,12 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
-
+/**
+ * This class is the Password Checker.
+ * Each {@code AwesomePasswordChecker} has an
+ * associated {@code instance} and {@clusterCenters}.
+ * 
+ */
 public class AwesomePasswordChecker {
 
   private static AwesomePasswordChecker instance;
