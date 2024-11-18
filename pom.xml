@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.lenar</groupId>
-    <artifactId>app-props</artifactId>
+    <artifactId>TP1</artifactId>
     <version>0.9.3-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>AppProps</name>
-    <description>Manages properties</description>
-    <url>https://github.com/LenarBad/app-props</url>
+    <name>CodeReviewTP1</name>
+    <description>TP1</description>
+    <url>https://github.com/Zebedee-balistique/CodeReviewTP1</url>
 
-    <parent>
-        <groupId>org.sonatype.oss</groupId>
-        <artifactId>oss-parent</artifactId>
-        <version>9</version>
-    </parent>
-
+    
     <properties>
         <project.scm.id>github</project.scm.id>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -32,17 +29,16 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:git@github.com:lenarbad/app-props.git</connection>
-        <developerConnection>scm:git:git@github.com:lenarbad/app-props.git</developerConnection>
-        <url>https://github.com/lenarbad/app-props</url>
+        <connection>scm:git:git@github.com:Zebedee-balistique/CodeReviewTP1.git</connection>
+        <developerConnection>scm:git:git@github.com:Zebedee-balistique/CodeReviewTP1.git</developerConnection>
+        <url>https://github.com/Zebedee-balistique/CodeReviewTP1</url>
     </scm>
 
     <developers>
         <developer>
             <id>owner</id>
-            <name>Lenar Badretdinov</name>
+            <name>Esteban Melero</name>
             <timezone>UTC-7</timezone>
-            <email>my-email@g-hot-web-mail.com</email>
         </developer>
     </developers>
 
